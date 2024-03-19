@@ -1,0 +1,4 @@
+quart
+loguru
+openai
+pyserial
